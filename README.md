@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently Learning **JavaScript And React**
 
-- 👨‍💻 All of my projects are available at [post you soon](post you soon)
+- 👨‍💻 All of my projects are available at [post you soon]
 
-- 📝 I regularly write articles on [post you soon](post you soon)
+- 📝 I regularly write articles on [post you soon]
 
 - 📫 How to reach me **naveennani2605@gmail.com**
 
-- 📄 Know about my experiences [post you soon](post you soon)
+- 📄 Know about my experiences [post you soon]
 
 - ⚡ Fun fact **Iam Funny But Not Much**
 
